@@ -1,31 +1,7 @@
 {
-    "car":[
-        {
-            "station": "Lai King",
-            "lat" : 22.3195999,
-            "lgt": 114.1904631
-        },
-        {
-            "station": "Mei Foo",
-            "lat" : 22.3364915,
-            "lgt": 114.1309569
-        },
-        {
-            "station": "Cheung Sha Wan",
- 
-            "lat" : 22.3364915,
-            "lgt": 114.1309569
-        },
-        {
-            "station": "Sham Shui Po",
-            "lat" : 22.3247442,
-            "lgt": 114.1569328
-        },
-        {
-            "station": "Price Edward",
-            "lat" : 22.3239582,
-            "lgt": 114.1576308
-        }
-    ]
+    "id":1, 
+    "icon":"https://cdn.icon-icons.com/icons2/2070/PNG/512/bus_icon_126644.png",
+    "name": "Red Line",
+    "lat":22.331476, 
+    "lng":114.161466
 }
-
